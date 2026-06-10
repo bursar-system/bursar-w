@@ -50,6 +50,21 @@
       "notes": "",
       "createdAt": "2026-06-10T14:37:52.373Z",
       "id": 3
+    },
+    {
+      "name": "Annette",
+      "admissionNo": "12086",
+      "assessmentNo": "",
+      "class": "Grade 9",
+      "gender": "Female",
+      "kcpeIndex": "",
+      "nationalId": "",
+      "parentName": "",
+      "parentPhone": "0722434455",
+      "parentPhone2": "",
+      "notes": "",
+      "createdAt": "2026-06-10T15:26:58.378Z",
+      "id": 4
     }
   ],
   "payments": [
@@ -402,5 +417,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-10T14:39:01.027Z"
+  "backedUpAt": "2026-06-10T15:27:01.054Z"
 }
