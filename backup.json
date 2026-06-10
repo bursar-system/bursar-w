@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "email": "w@gmail.com",
+  "schoolName": "ubwo academy",
+  "passwordHash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+  "currentTerm": "Term 1",
+  "currentYear": 2026,
+  "students": [],
+  "payments": [],
+  "bursaries": [],
+  "feeStructure": [],
+  "backedUpAt": "2026-06-10T14:28:01.439Z"
+}
