@@ -65,6 +65,21 @@
       "notes": "",
       "createdAt": "2026-06-10T15:26:58.378Z",
       "id": 4
+    },
+    {
+      "name": "emilio matinez",
+      "admissionNo": "4839",
+      "assessmentNo": "",
+      "class": "Grade 8",
+      "gender": "Male",
+      "kcpeIndex": "",
+      "nationalId": "",
+      "parentName": "",
+      "parentPhone": "0723456789",
+      "parentPhone2": "",
+      "notes": "",
+      "createdAt": "2026-06-10T20:46:18.782Z",
+      "id": 5
     }
   ],
   "payments": [
@@ -429,5 +444,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-10T15:27:37.435Z"
+  "backedUpAt": "2026-06-10T20:46:22.243Z"
 }
