@@ -22,7 +22,20 @@
       "id": 1
     }
   ],
-  "payments": [],
+  "payments": [
+    {
+      "amount": 3000,
+      "term": "Term 1",
+      "year": 2026,
+      "method": "Cash",
+      "reference": "",
+      "notes": "",
+      "studentId": 1,
+      "receiptNo": "RCP-20260610-8388",
+      "createdAt": "2026-06-10T14:30:44.525Z",
+      "id": 1
+    }
+  ],
   "bursaries": [],
   "feeStructure": [
     {
@@ -314,5 +327,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-10T14:29:52.695Z"
+  "backedUpAt": "2026-06-10T14:30:46.041Z"
 }
