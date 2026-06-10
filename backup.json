@@ -5,9 +5,314 @@
   "passwordHash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
   "currentTerm": "Term 1",
   "currentYear": 2026,
-  "students": [],
+  "students": [
+    {
+      "name": "mike tyson",
+      "admissionNo": "4837",
+      "assessmentNo": "",
+      "class": "Grade 7",
+      "gender": "Male",
+      "kcpeIndex": "",
+      "nationalId": "",
+      "parentName": "",
+      "parentPhone": "0723775446",
+      "parentPhone2": "",
+      "notes": "",
+      "createdAt": "2026-06-10T14:29:50.443Z",
+      "id": 1
+    }
+  ],
   "payments": [],
   "bursaries": [],
-  "feeStructure": [],
-  "backedUpAt": "2026-06-10T14:28:01.439Z"
+  "feeStructure": [
+    {
+      "id": "Grade 1-Term 1-2026",
+      "level": "Lower Primary",
+      "class": "Grade 1",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 1-Term 2-2026",
+      "level": "Lower Primary",
+      "class": "Grade 1",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 1-Term 3-2026",
+      "level": "Lower Primary",
+      "class": "Grade 1",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 2-Term 1-2026",
+      "level": "Lower Primary",
+      "class": "Grade 2",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 2-Term 2-2026",
+      "level": "Lower Primary",
+      "class": "Grade 2",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 2-Term 3-2026",
+      "level": "Lower Primary",
+      "class": "Grade 2",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 3-Term 1-2026",
+      "level": "Lower Primary",
+      "class": "Grade 3",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 3-Term 2-2026",
+      "level": "Lower Primary",
+      "class": "Grade 3",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 3-Term 3-2026",
+      "level": "Lower Primary",
+      "class": "Grade 3",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 4-Term 1-2026",
+      "level": "Upper Primary",
+      "class": "Grade 4",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 4-Term 2-2026",
+      "level": "Upper Primary",
+      "class": "Grade 4",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 4-Term 3-2026",
+      "level": "Upper Primary",
+      "class": "Grade 4",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 5-Term 1-2026",
+      "level": "Upper Primary",
+      "class": "Grade 5",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 5-Term 2-2026",
+      "level": "Upper Primary",
+      "class": "Grade 5",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 5-Term 3-2026",
+      "level": "Upper Primary",
+      "class": "Grade 5",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 6-Term 1-2026",
+      "level": "Upper Primary",
+      "class": "Grade 6",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 6-Term 2-2026",
+      "level": "Upper Primary",
+      "class": "Grade 6",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 6-Term 3-2026",
+      "level": "Upper Primary",
+      "class": "Grade 6",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Grade 7-Term 1-2026",
+      "level": "Junior Secondary",
+      "class": "Grade 7",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 5000
+    },
+    {
+      "id": "Grade 7-Term 2-2026",
+      "level": "Junior Secondary",
+      "class": "Grade 7",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 5000
+    },
+    {
+      "id": "Grade 7-Term 3-2026",
+      "level": "Junior Secondary",
+      "class": "Grade 7",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 5000
+    },
+    {
+      "id": "Grade 8-Term 1-2026",
+      "level": "Junior Secondary",
+      "class": "Grade 8",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 5000
+    },
+    {
+      "id": "Grade 8-Term 2-2026",
+      "level": "Junior Secondary",
+      "class": "Grade 8",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 5000
+    },
+    {
+      "id": "Grade 8-Term 3-2026",
+      "level": "Junior Secondary",
+      "class": "Grade 8",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 5000
+    },
+    {
+      "id": "Grade 9-Term 1-2026",
+      "level": "Junior Secondary",
+      "class": "Grade 9",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 5000
+    },
+    {
+      "id": "Grade 9-Term 2-2026",
+      "level": "Junior Secondary",
+      "class": "Grade 9",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 5000
+    },
+    {
+      "id": "Grade 9-Term 3-2026",
+      "level": "Junior Secondary",
+      "class": "Grade 9",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 5000
+    },
+    {
+      "id": "PP1-Term 1-2026",
+      "level": "Pre-Primary",
+      "class": "PP1",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "PP1-Term 2-2026",
+      "level": "Pre-Primary",
+      "class": "PP1",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "PP1-Term 3-2026",
+      "level": "Pre-Primary",
+      "class": "PP1",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "PP2-Term 1-2026",
+      "level": "Pre-Primary",
+      "class": "PP2",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "PP2-Term 2-2026",
+      "level": "Pre-Primary",
+      "class": "PP2",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "PP2-Term 3-2026",
+      "level": "Pre-Primary",
+      "class": "PP2",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Playgroup-Term 1-2026",
+      "level": "Pre-Primary",
+      "class": "Playgroup",
+      "term": "Term 1",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Playgroup-Term 2-2026",
+      "level": "Pre-Primary",
+      "class": "Playgroup",
+      "term": "Term 2",
+      "year": 2026,
+      "amount": 0
+    },
+    {
+      "id": "Playgroup-Term 3-2026",
+      "level": "Pre-Primary",
+      "class": "Playgroup",
+      "term": "Term 3",
+      "year": 2026,
+      "amount": 0
+    }
+  ],
+  "backedUpAt": "2026-06-10T14:29:52.695Z"
 }
