@@ -35,6 +35,21 @@
       "notes": "",
       "createdAt": "2026-06-10T14:35:39.323Z",
       "id": 2
+    },
+    {
+      "name": "arnold malcom",
+      "admissionNo": "4823",
+      "assessmentNo": "",
+      "class": "Grade 8",
+      "gender": "",
+      "kcpeIndex": "",
+      "nationalId": "",
+      "parentName": "",
+      "parentPhone": "0724557778",
+      "parentPhone2": "",
+      "notes": "",
+      "createdAt": "2026-06-10T14:37:52.373Z",
+      "id": 3
     }
   ],
   "payments": [
@@ -375,5 +390,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-10T14:36:28.405Z"
+  "backedUpAt": "2026-06-10T14:37:54.654Z"
 }
