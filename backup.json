@@ -36,7 +36,18 @@
       "id": 1
     }
   ],
-  "bursaries": [],
+  "bursaries": [
+    {
+      "source": "CDF Bursary",
+      "amount": 1000,
+      "term": "Term 1",
+      "year": 2026,
+      "notes": "",
+      "studentId": 1,
+      "createdAt": "2026-06-10T14:31:11.137Z",
+      "id": 1
+    }
+  ],
   "feeStructure": [
     {
       "id": "Grade 1-Term 1-2026",
@@ -327,5 +338,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-10T14:30:46.041Z"
+  "backedUpAt": "2026-06-10T14:31:13.257Z"
 }
