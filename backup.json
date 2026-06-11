@@ -201,6 +201,16 @@
       "studentId": 5,
       "createdAt": "2026-06-10T20:48:19.101Z",
       "id": 3
+    },
+    {
+      "source": "CDF Bursary",
+      "amount": 3000,
+      "term": "Term 1",
+      "year": 2026,
+      "notes": "",
+      "studentId": 6,
+      "createdAt": "2026-06-11T05:42:24.049Z",
+      "id": 4
     }
   ],
   "feeStructure": [
@@ -493,5 +503,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-11T05:42:01.049Z"
+  "backedUpAt": "2026-06-11T05:42:25.602Z"
 }
