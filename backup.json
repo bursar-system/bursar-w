@@ -184,6 +184,18 @@
       "receiptNo": "RCP-20260611-3122",
       "createdAt": "2026-06-11T05:41:58.712Z",
       "id": 6
+    },
+    {
+      "amount": 8000,
+      "term": "Term 1",
+      "year": 2026,
+      "method": "Cheque",
+      "reference": "",
+      "notes": "",
+      "studentId": 7,
+      "receiptNo": "RCP-20260611-3563",
+      "createdAt": "2026-06-11T05:58:19.414Z",
+      "id": 7
     }
   ],
   "bursaries": [
@@ -518,5 +530,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-11T05:57:12.668Z"
+  "backedUpAt": "2026-06-11T05:58:21.605Z"
 }
