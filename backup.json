@@ -211,6 +211,19 @@
       "receiptNo": "RCP-20260612-6713",
       "createdAt": "2026-06-11T21:27:01.484Z",
       "id": 8
+    },
+    {
+      "feeType": "transport",
+      "amount": 400,
+      "term": "Term 1",
+      "year": 2026,
+      "method": "Cash",
+      "reference": "",
+      "notes": "",
+      "studentId": 1,
+      "receiptNo": "RCP-20260612-1742",
+      "createdAt": "2026-06-11T21:27:56.009Z",
+      "id": 9
     }
   ],
   "bursaries": [
@@ -555,5 +568,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-11T21:27:03.666Z"
+  "backedUpAt": "2026-06-11T21:27:57.518Z"
 }
