@@ -51,7 +51,9 @@
       "parentPhone2": "",
       "notes": "",
       "createdAt": "2026-06-10T14:37:52.373Z",
-      "id": 3
+      "id": 3,
+      "transportFee": 2000,
+      "updatedAt": "2026-06-11T21:30:28.141Z"
     },
     {
       "name": "Annette",
@@ -568,5 +570,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-11T21:27:57.518Z"
+  "backedUpAt": "2026-06-11T21:30:30.347Z"
 }
