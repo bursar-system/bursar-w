@@ -95,6 +95,21 @@
       "notes": "",
       "createdAt": "2026-06-11T05:40:50.616Z",
       "id": 6
+    },
+    {
+      "name": "nikolao tyson",
+      "admissionNo": "4789",
+      "assessmentNo": "",
+      "class": "Grade 8",
+      "gender": "Male",
+      "kcpeIndex": "",
+      "nationalId": "",
+      "parentName": "",
+      "parentPhone": "0724557889",
+      "parentPhone2": "",
+      "notes": "",
+      "createdAt": "2026-06-11T05:57:10.383Z",
+      "id": 7
     }
   ],
   "payments": [
@@ -503,5 +518,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-11T05:42:25.602Z"
+  "backedUpAt": "2026-06-11T05:57:12.668Z"
 }
