@@ -130,7 +130,10 @@
       "createdAt": "2026-06-13T10:07:36.682Z",
       "id": 8,
       "transportFee": 1000,
-      "updatedAt": "2026-06-13T10:18:08.885Z"
+      "updatedAt": "2026-06-13T10:39:37.403Z",
+      "transportFees": {
+        "Term 1-2026": 2000
+      }
     }
   ],
   "payments": [
@@ -600,5 +603,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-13T10:18:21.394Z"
+  "backedUpAt": "2026-06-13T10:39:39.634Z"
 }
