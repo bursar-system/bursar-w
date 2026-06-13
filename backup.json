@@ -36,7 +36,11 @@
       "parentPhone2": "",
       "notes": "",
       "createdAt": "2026-06-10T14:35:39.323Z",
-      "id": 2
+      "id": 2,
+      "transportFees": {
+        "Term 1-2026": 2000
+      },
+      "updatedAt": "2026-06-13T10:40:54.394Z"
     },
     {
       "name": "arnold malcom",
@@ -603,5 +607,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-13T10:40:34.253Z"
+  "backedUpAt": "2026-06-13T10:41:15.899Z"
 }
