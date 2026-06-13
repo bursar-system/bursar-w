@@ -128,7 +128,9 @@
       "parentPhone2": "",
       "notes": "",
       "createdAt": "2026-06-13T10:07:36.682Z",
-      "id": 8
+      "id": 8,
+      "transportFee": 2000,
+      "updatedAt": "2026-06-13T10:07:51.087Z"
     }
   ],
   "payments": [
@@ -585,5 +587,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-13T10:07:49.213Z"
+  "backedUpAt": "2026-06-13T10:07:52.597Z"
 }
