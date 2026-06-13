@@ -104,9 +104,10 @@
       "createdAt": "2026-06-11T05:40:50.616Z",
       "id": 6,
       "transportFees": {
-        "Term 1-2026": 2000
+        "Term 1-2026": 2000,
+        "Term 2-2026": 1000
       },
-      "updatedAt": "2026-06-13T10:58:50.179Z"
+      "updatedAt": "2026-06-13T10:59:07.577Z"
     },
     {
       "name": "nikolao tyson",
@@ -611,5 +612,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-13T10:58:52.672Z"
+  "backedUpAt": "2026-06-13T10:59:09.105Z"
 }
