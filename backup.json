@@ -288,6 +288,19 @@
       "receiptNo": "RCP-20260613-8841",
       "createdAt": "2026-06-13T10:08:23.863Z",
       "id": 10
+    },
+    {
+      "feeType": "tuition",
+      "amount": 12000,
+      "term": "Term 1",
+      "year": 2026,
+      "method": "Bank Transfer",
+      "reference": "",
+      "notes": "",
+      "studentId": 9,
+      "receiptNo": "RCP-20260613-2604",
+      "createdAt": "2026-06-13T12:19:41.906Z",
+      "id": 11
     }
   ],
   "bursaries": [
@@ -632,5 +645,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-13T12:18:14.684Z"
+  "backedUpAt": "2026-06-13T12:19:54.242Z"
 }
