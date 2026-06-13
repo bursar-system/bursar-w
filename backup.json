@@ -144,6 +144,21 @@
       "transportFees": {
         "Term 1-2026": 3000
       }
+    },
+    {
+      "name": "john wagathima",
+      "admissionNo": "6150",
+      "assessmentNo": "",
+      "class": "Grade 8",
+      "gender": "Male",
+      "kcpeIndex": "",
+      "nationalId": "",
+      "parentName": "",
+      "parentPhone": "0746575017",
+      "parentPhone2": "",
+      "notes": "",
+      "createdAt": "2026-06-13T12:16:45.985Z",
+      "id": 9
     }
   ],
   "payments": [
@@ -613,5 +628,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-13T10:59:22.893Z"
+  "backedUpAt": "2026-06-13T12:16:48.693Z"
 }
