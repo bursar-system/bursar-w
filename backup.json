@@ -353,6 +353,16 @@
       "studentId": 7,
       "createdAt": "2026-06-11T05:59:05.225Z",
       "id": 5
+    },
+    {
+      "source": "County Government",
+      "amount": 4000,
+      "term": "Term 1",
+      "year": 2026,
+      "notes": "",
+      "studentId": 9,
+      "createdAt": "2026-06-13T12:21:25.033Z",
+      "id": 6
     }
   ],
   "feeStructure": [
@@ -645,5 +655,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-13T12:19:54.242Z"
+  "backedUpAt": "2026-06-13T12:21:38.294Z"
 }
