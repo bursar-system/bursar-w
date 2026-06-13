@@ -114,6 +114,21 @@
       "notes": "",
       "createdAt": "2026-06-11T05:57:10.383Z",
       "id": 7
+    },
+    {
+      "name": "sophie silvya",
+      "admissionNo": "4876",
+      "assessmentNo": "",
+      "class": "Grade 8",
+      "gender": "",
+      "kcpeIndex": "",
+      "nationalId": "",
+      "parentName": "",
+      "parentPhone": "0723755889",
+      "parentPhone2": "",
+      "notes": "",
+      "createdAt": "2026-06-13T10:07:36.682Z",
+      "id": 8
     }
   ],
   "payments": [
@@ -570,5 +585,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-11T21:30:30.347Z"
+  "backedUpAt": "2026-06-13T10:07:49.213Z"
 }
