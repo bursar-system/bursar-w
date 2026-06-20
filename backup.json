@@ -126,26 +126,6 @@
       "id": 7
     },
     {
-      "name": "sophie silvya",
-      "admissionNo": "4876",
-      "assessmentNo": "",
-      "class": "Grade 8",
-      "gender": "",
-      "kcpeIndex": "",
-      "nationalId": "",
-      "parentName": "",
-      "parentPhone": "0723755889",
-      "parentPhone2": "",
-      "notes": "",
-      "createdAt": "2026-06-13T10:07:36.682Z",
-      "id": 8,
-      "transportFee": 1000,
-      "updatedAt": "2026-06-13T10:40:32.738Z",
-      "transportFees": {
-        "Term 1-2026": 3000
-      }
-    },
-    {
       "name": "john wagathima",
       "admissionNo": "6150",
       "assessmentNo": "",
@@ -655,5 +635,5 @@
       "amount": 0
     }
   ],
-  "backedUpAt": "2026-06-13T12:21:38.294Z"
+  "backedUpAt": "2026-06-20T18:33:39.365Z"
 }
